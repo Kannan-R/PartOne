@@ -1,0 +1,3 @@
+[submodule "PartOne"]
+	path = PartOne
+	url = https://github.com/Kannan-R/PartOne.git
